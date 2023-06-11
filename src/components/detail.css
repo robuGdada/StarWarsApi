@@ -1,0 +1,15 @@
+.btn{
+    color: white;
+    background-color: rgba(255, 0, 0, 0.811);
+    margin-top: 10px;
+ 
+}
+
+.didi,.vai,.sanovai,.dada{
+    padding: 2px;
+}
+.btn:hover.btn:hover:hover{
+    cursor: pointer;
+    color:black;
+    background-color:rgba(0, 173, 58, 0.5)
+}
